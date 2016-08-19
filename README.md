@@ -1,5 +1,7 @@
 # Rumbl1
 
+Programming Phoenix P1.0 - 20160819
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
